@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+	background-color: #e8e8e4;
+}
+
+.login-form {
+	 margin: auto;
+ 	 width: 30%;
+ 	 border-style: solid;
+  	 border-width: 3px;
+  	 border-color: #d8e2dc;
+  	 padding: 70px 0;
+  	 text-align: center;
+  	 margin-top: 10%;
+	
+}
